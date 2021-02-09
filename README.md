@@ -1,3 +1,3 @@
 # Love - What is it?
 * What is the opposite of love?
-** The opposite is indifferent
+* The opposite is indifferent
